@@ -17,3 +17,18 @@
     color: navy;
 }
 
+.container {
+    display: flex;
+    justify-content: center;
+}
+.title {
+    justify-content: center;
+    background-color: #a583e3;
+    color: white;
+    text-align: center;
+    padding: .3em 2em;
+    margin: 1em;
+    width: fit-content;
+    border-radius: .2em;
+}
+
