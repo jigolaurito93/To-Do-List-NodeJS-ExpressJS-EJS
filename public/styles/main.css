@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav-list {
+    display: flex;
+    margin-top: 1.5em;
+}
+
+.nav-items {
+    margin: auto 1em;
+    list-style: none;
+}
+.fawesome {
+    margin: auto .2em;
+    color: navy;
+}
+
